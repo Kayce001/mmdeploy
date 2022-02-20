@@ -1,3 +1,4 @@
+#如果因为默认源问题，可以添加国内源，具体操作可参考https://blog.csdn.net/yyj108317/article/details/105984674
 FROM openvino/ubuntu18_dev:2021.4.2
 ARG PYTHON_VERSION=3.7
 ARG TORCH_VERSION=1.8.0
